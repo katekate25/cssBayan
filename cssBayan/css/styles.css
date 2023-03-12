@@ -1,6 +1,5 @@
 body {
     background-color: #fdf5e6;
-
 }
 
 .line {
@@ -11,7 +10,6 @@ a {
     text-decoration: none;
     color          : #310062;
 }
-
 
 A:visited {
     color: #310062;
@@ -74,7 +72,6 @@ h1 {
     margin-right    : auto;
     background-color: #fdf5e6;
     width           : 50%;
-
 }
 
 .container .radio-item:hover .acor-body {
@@ -88,7 +85,6 @@ h1 {
 .container .radio-item:hover label:before {
     transform: rotate(45deg);
 }
-
 
 .container .radio-item .acor-body {
     text-align : center;
